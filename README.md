@@ -1,4 +1,4 @@
 Courses
 =======
 
-This reporsitory contains all my work online coursework.
+This repository contains all my work online coursework.
